@@ -15,7 +15,11 @@ const ProjectTile = ({ projectImage, tileSize, onClick }: ProjectTileProps) => {
       <img
         src={tileImage}
         alt="project"
-        style={{ height: `${tileSize}px`, width: `${tileSize}px` }}
+        style={{
+          height: `${tileSize}px`,
+          width: `${tileSize}px`,
+          objectFit: "cover",
+        }}
       />
     </TileContainer>
   );

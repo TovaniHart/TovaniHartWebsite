@@ -23,7 +23,11 @@ const EmployeeTile = ({
       <img
         src={coverImage}
         alt="portrait"
-        style={{ height: `${tileSize}px`, width: `${tileSize}px` }}
+        style={{
+          height: `${tileSize}px`,
+          width: `${tileSize}px`,
+          objectFit: "cover",
+        }}
       />
 
       <Name>{name}</Name>
