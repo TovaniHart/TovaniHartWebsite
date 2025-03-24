@@ -9,7 +9,7 @@ type ContactConstantsProps = {
 
 export const CONTACT_CONSTANTS: ContactConstantsProps = {
   header: "Contact Us",
-  companyName: "Tovani Hart",
+  companyName: "Tovani Hart -- testing",
   streetAddress: "609 A Columbia Street SW",
   cityStateZip: "Olympia, WA 98501",
   phoneNumber: "(360) 339-8274",
