@@ -216,19 +216,6 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "talc-teaching-space_web.jpg",
     ],
   },
-  {
-    name: "Baytown Test Project",
-    location: "Baytown, TX",
-    description:
-      "Tovani Hart worked closely with the Tumwater School District and the New Market Skills Center to design a new learning environment for the District's existing Options program.  The 14,500 sf Learning Center includes ten classrooms with high windows at both the interior and exterior walls.  This design element allows natural light to flood the classrooms, and the building interior, while visually screening the activities occurring beyond the walls.  The classrooms are organized around a dynamic circulation core with small gathering areas nestled beneath soft lower ceilings.  Creating a focused and secure space was a key factor during the design process.  The large sheltering roof protects a transparent main entry.  The control point just inside the main entry has a strong visual connection to the circulation area enhancing supervision and student safety.",
-    coverImage: "baytownclassroom.JPG",
-    media: [
-      "baytownclassroom.JPG",
-      "talc-entry_web.jpg",
-      "talc-rendering_web.jpg",
-      "talc-teaching-space_web.jpg",
-    ],
-  },
 ];
 
 export default PROJECTS_CONSTANTS;
