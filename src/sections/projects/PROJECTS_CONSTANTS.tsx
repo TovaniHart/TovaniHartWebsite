@@ -214,6 +214,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "talc-entry_web.jpg",
       "talc-rendering_web.jpg",
       "talc-teaching-space_web.jpg",
+      "https://www.youtube.com/embed/rgezW9ouiiI?si=T27nZzm7bYPfOKch",
     ],
   },
 ];
