@@ -78,6 +78,13 @@ export const EMPLOYEE_CONSTANTS: EmployeeProps[] = [
     biography:
       "Hasan graduated from University of Idaho with both Masters and Bachelor degree in Architecture. He enjoys being in the practice of architecture after many years of learning the theory of it. In his professional path, he is looking to get his license in architecture. Hasan is coming from a diverse background and he uses that diversity in his professional life. He enjoys hands on experience. In his university years, he has learned carpentry and it became one of his passions. Being part of a Design & Build team taught him the important aspects of the build environment and how his designs impacts people’s lives. \n Hasan enjoys being outdoors. He is interested in carpentry, photography, acrylic and oil painting, gaming, and gardening. He appreciates being part of the community where he gets to enjoy everyday life and problem solving. One of the latest interests of Hasan is how to fix his car with creative solutions.",
   },
+  {
+    name: "Ingrid Noyes",
+    image: "Ingrid 2025.jpg",
+    title: "Interior Designer",
+    biography:
+      "Ingrid Noyes graduated with a Bachelor’s in Interior Design and Minor in Construction Management from the accredited design program offered by Washington State University. She first got hands-on experience through working with Habitat for Humanity and assisted the organization with rebuilding homes in New Orleans. After graduating high school, she went on to work with AmeriCorps NCCC, a government program designed to introduce young adults to different areas of work such as, energy conservation, infrastructure improvement, natural and other disaster services, and urban and rural development. \n Ingrid enjoys designing spaces in the areas of hospitality, retail, residential, and especially community based spaces. She also has an interest in historical preservation and how architecture and interior design reflects the identity of a society and culture. In her spare time, she enjoys going on hikes in the PNW, hanging out with friends and her cat, and talking with her grandma.",
+  },
 ];
 
 export default TEAM_CONSTANTS;
