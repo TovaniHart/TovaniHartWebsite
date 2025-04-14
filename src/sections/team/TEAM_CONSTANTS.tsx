@@ -58,9 +58,9 @@ export const EMPLOYEE_CONSTANTS: EmployeeProps[] = [
       "Kate has been fond of architecture nearly her entire life; even before she knew what architecture was.  She was given her first LEGO set as a young child, and her love of building and how things go together was quickly formed.  As an adult, Kate studied Architecture at the University of Arizona.  She spent several years developing a diverse set of skills before beginning her architectural internship in Phoenix, Arizona.\n Kate spent 10 plus years expanding her professional skills in areas ranging from Feasibility Studies to Construction Administration. While developing these skills, Kate pursued her professional licensing, and became a Registered Architect in 2019.  After enduring years of Phoenix summers, Kate, and her husband relocated to the beautiful Pacific Northwest.  Kate is excited to share her wit and enthusiasm with Tovani Hart and the community.\n In her spare time, Kate continues her love of everything LEGO, experiencing the PNW, and making / repairing things in her workshop.",
   },
   {
-    name: "Maria Herrera",
+    name: "Maria Herrera, AIA",
     image: "Maria Herrera 2022 cropped.jpg",
-    title: "Intern",
+    title: "Architect in Training",
     biography:
       "Maria is an active AIA member who attained her bachelor’s degree from Washington State University. She strives to build up her community through thoughtful design, integrity, and authenticity. She has a passion for helping people and enjoys spending her free time outdoors exploring new trails and photographing new scenes.",
   },
