@@ -71,6 +71,14 @@ export const EMPLOYEE_CONSTANTS: EmployeeProps[] = [
     biography:
       "Chrissy has over 20 years of experience as a Bookkeeper, Controller, and Director of Operations, as well as extensive experience with payroll.  At Tovani Hart she works to support the team, primarily through her meticulous management of accounts-receivable and accounts-payable, to help keep project fees and consultant fees aligned with the progression of the project milestones.  Chrissy hails from Upstate New York, where she studied architecture at Syracuse University, but she has been calling the great Pacific Northwest “home” since 1992.  In her free time, Chrissy is an artist, most recently experimenting with large-scale 5’x5’ paintings on canvas, and she is an avid gardener who is practicing to someday be a flower farmer.",
   },
+  {
+    name: "Hasan Ikiz",
+    image: "Hasan 2025.jpg",
+    title: "Architect in Training",
+    biography:
+      "Hasan graduated from University of Idaho with both Masters and Bachelor degree in Architecture. He enjoys being in the practice of architecture after many years of learning the theory of it. In his professional path, he is looking to get his license in architecture. Hasan is coming from a diverse background and he uses that diversity in his professional life. He enjoys hands on experience. In his university years, he has learned carpentry and it became one of his passions. Being part of a Design & Build team taught him the important aspects of the build environment and how his designs impacts people’s lives. 
+Hasan enjoys being outdoors. He is interested in carpentry, photography, acrylic and oil painting, gaming, and gardening. He appreciates being part of the community where he gets to enjoy everyday life and problem solving. One of the latest interests of Hasan is how to fix his car with creative solutions.",
+  },
 ];
 
 export default TEAM_CONSTANTS;
