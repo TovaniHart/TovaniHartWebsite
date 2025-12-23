@@ -21,7 +21,6 @@ const HOME_CONSTANTS: HomeConstantsProps = {
   positionHiring: "Happy Holidays from the Tovani Hart Team",
   positionBulletPoints: [
     "TH CHRISTMAS 2025.jpg",
-
   ],
   positionAvailability:
     " ",
