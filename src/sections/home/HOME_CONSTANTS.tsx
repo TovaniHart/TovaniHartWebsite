@@ -12,13 +12,13 @@ type HomeConstantsProps = {
 
 const HOME_CONSTANTS: HomeConstantsProps = {
   backgroundImage: "wall-angle.jpg",
-  header: "Tovani Hart is not currently hiring",
-  sendResumeText: "Send resumes to",
-  emailAddress: "info@tovanihart.com",
+  header: " ",
+  sendResumeText: " ",
+  emailAddress: " ",
   sendResumeAnywayText:
-    "Don't see the position you're looking for? Send us your resume anyway!",
-  hiringText: "Not Currently hiring:",
-  positionHiring: "TBD",
+    " ",
+  hiringText: " ",
+  positionHiring: " ",
   positionBulletPoints: [
     "Have a positive attitude under pressure and an ability to complete many tasks quickly and accurately, in a team setting, under the guidance of our Design Directors",
     "Have excellent verbal and written communication skills",
