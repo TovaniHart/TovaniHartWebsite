@@ -1,6 +1,7 @@
 type HomeConstantsProps = {
   backgroundImage: string;
   header: string;
+  companyDescriptionText: string;
   sendResumeText: string;
   emailAddress: string;
   sendResumeAnywayText: string;
@@ -12,7 +13,9 @@ type HomeConstantsProps = {
 
 const HOME_CONSTANTS: HomeConstantsProps = {
   backgroundImage: "wall-angle.jpg",
-  header: "Tovani Hart is not currently hiring",
+  header: "Welcome to Tovani Hart",
+  companyDescriptionText:
+    "An architecture practice focused on clarity, craft, and enduring design",
   sendResumeText: "Send resumes to",
   emailAddress: "info@tovanihart.com",
   sendResumeAnywayText:

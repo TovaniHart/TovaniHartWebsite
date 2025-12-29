@@ -2,25 +2,25 @@ import { useState } from "react";
 import SectionHeader from "../../components/SectionHeader";
 import Section from "../../components/Section";
 import HOME_CONSTANTS from "./HOME_CONSTANTS";
-import TYPOGRAPHY, { Paragraph } from "../../assets/Typography";
-import { styled } from "@mui/material";
-import EastIcon from "@mui/icons-material/East";
+import { Paragraph } from "../../assets/Typography";
 import SPACING from "../../assets/Spacing";
-import COLORS from "../../assets/Colors";
 import ParallaxImage from "../../components/ParallaxImage";
 import SectionContent from "../../components/SectionContent";
 import Logo from "../../components/Logo";
 import useMobileScreen from "../../utils/useMobileScreen";
 import HiringModal from "./HiringModal";
 import FadeIn from "../../components/FadeIn";
+import MailTo from "../../components/MailTo";
+// import HiringInfo from "./HiringInfo";
 
 const {
   backgroundImage,
   header,
-  sendResumeText,
+  companyDescriptionText,
+  // sendResumeText,
   emailAddress,
-  sendResumeAnywayText,
-  hiringText,
+  // sendResumeAnywayText,
+  // hiringText,
   positionHiring,
   positionBulletPoints,
   positionAvailability,
@@ -96,76 +96,22 @@ const HomeContent = ({
           </SectionHeader>
         </FadeIn>
         <FadeIn delay={100}>
+          <Paragraph>{companyDescriptionText}</Paragraph>
           <Paragraph>
-            {sendResumeText}{" "}
-            <a
-              href={`mailto:${emailAddress}`}
-              style={{ textDecoration: "none", color: COLORS.white }}
-            >
-              {emailAddress}
-            </a>
-            <br />
-            {sendResumeAnywayText}
+            <MailTo emailAddress={emailAddress} />
           </Paragraph>
-          <Paragraph style={{ padding: `${SPACING.large}px 0px` }}>
-            {hiringText}
-          </Paragraph>
-          <HiringLink setShowModal={setShowModal} />
         </FadeIn>
+        {/* <HiringInfo
+          sendResumeText={sendResumeText}
+          emailAddress={emailAddress}
+          sendResumeAnywayText={sendResumeAnywayText}
+          hiringText={hiringText}
+          positionHiring={positionHiring}
+          setShowModal={setShowModal}
+        /> */}
       </SectionContent>
     </div>
   );
 };
-
-const HiringLink = ({
-  setShowModal,
-}: {
-  setShowModal: React.Dispatch<React.SetStateAction<boolean>>;
-}) => {
-  return (
-    <HiringLinkContainer
-      onClick={() => {
-        setShowModal((prev) => !prev);
-      }}
-    >
-      <HiringLinkText>{positionHiring}</HiringLinkText>
-      <EastIcon />
-    </HiringLinkContainer>
-  );
-};
-
-const HiringLinkContainer = styled("div")({
-  display: "flex",
-  flexDirection: "row",
-  alignItems: "center",
-  cursor: "pointer",
-  width: "fit-content",
-  transition: "transform 0.3s ease-in-out",
-  paddingLeft: "3px",
-  "&::after": {
-    content: '""',
-    position: "absolute",
-    left: "0",
-    bottom: "-2px",
-    width: "0%",
-    height: "2px",
-    backgroundColor: COLORS.white,
-    transition: "width 0.3s ease-in-out",
-  },
-
-  "&:hover": {
-    transform: "scale(1.05)",
-  },
-
-  "&:hover::after": {
-    width: "100%",
-  },
-});
-
-const HiringLinkText = styled("div")({
-  fontWeight: TYPOGRAPHY.fontWeight.bolder,
-  fontSize: TYPOGRAPHY.fontSize.paragraph,
-  marginRight: SPACING.small,
-});
 
 export default HomeSection;

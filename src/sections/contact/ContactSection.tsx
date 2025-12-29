@@ -8,6 +8,7 @@ import SPACING from "../../assets/Spacing";
 import SectionContent from "../../components/SectionContent";
 import useMobileScreen from "../../utils/useMobileScreen";
 import FadeIn from "../../components/FadeIn";
+import MailTo from "../../components/MailTo";
 
 const {
   header,
@@ -56,12 +57,7 @@ const ContactSection = ({ id }: { id: string }) => {
               {phoneNumber}
             </a>
             <br />
-            <a
-              href={`mailto:${emailAddress}`}
-              style={{ textDecoration: "none", color: COLORS.white }}
-            >
-              {emailAddress}
-            </a>
+            <MailTo emailAddress={emailAddress} />
           </Paragraph>
         </FadeIn>
       </SectionContent>
