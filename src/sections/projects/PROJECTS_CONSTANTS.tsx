@@ -220,7 +220,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     name: "FORMA Construction | Tenant Improvement",
     location: "Olympia, WA",
     description:
-      "Tovani Hart worked closely with FORMA Construction to design a new main office....",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "forma_cover_72dpi-285px.jpg",
     media: [
       "Forma-construction.jpg",
