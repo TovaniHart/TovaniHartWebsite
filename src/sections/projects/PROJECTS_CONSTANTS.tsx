@@ -221,14 +221,12 @@ export const PROJECTS_INFO: ProjectProps[] = [
     location: "Olympia, WA",
     description:
       "Tovani Hart worked closely with FORMA Construction to design a new main office....",
-    coverImage: "talc-285x285_web.jpg",
+    coverImage: "forma_cover_72dpi-285px.jpg",
     media: [
-      "Forma TI site plan test 01.jpg",
-      "Forma TI site plan test 02.jpg",
       "Forma-construction.jpg",
-      "Forma TI 20_40.pdf",
-      "Forma TI 30_60.pdf",
-      "Forma TI 40_40.pdf",
+      "Forma TI site plan test 20_40.jpg",
+      "Forma TI site plan test 30_60.jpg",
+      "Forma TI site plan test 30_60.jpg",
     ],
   },
 ];
