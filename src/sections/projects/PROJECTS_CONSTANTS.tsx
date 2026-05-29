@@ -226,6 +226,9 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Forma TI site plan test 01.jpg",
       "Forma TI site plan test 02.jpg",
       "Forma-construction.jpg",
+      "Forma TI 20_40.pdf",
+      "Forma TI 30_60.pdf",
+      "Forma TI 40_40.pdf",
     ],
   },
 ];
