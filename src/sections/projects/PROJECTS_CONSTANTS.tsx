@@ -214,6 +214,17 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "talc-entry_web.jpg",
       "talc-rendering_web.jpg",
       "talc-teaching-space_web.jpg",
+          ],
+  },
+  {
+    name: "FORMA | Tenant Improvement",
+    location: "Olympia, WA",
+    description:
+      "Tovani Hart worked closely with FORMA Construction to design a new main office....",
+    coverImage: "talc-285x285_web.jpg",
+    media: [
+      "Forma TI site plan test 01.jpg",
+      "Forma TI site plan test 02.jpg",
     ],
   },
 ];
