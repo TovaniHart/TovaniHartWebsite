@@ -230,8 +230,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
   },
   {
-    name: "Project Name | Additional Description",
-    location: "City, State",
+    name: "Connelly Residence",
+    location: "Lakewood, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
@@ -243,8 +243,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
   },
   {
-    name: "Project Name | Additional Description",
-    location: "City, State",
+    name: "Avanti HS | Knox Gym Remodel",
+    location: "Olympia, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
@@ -256,8 +256,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
   },
   {
-    name: "Project Name | Additional Description",
-    location: "City, State",
+    name: "Baytown | Phase III",
+    location: "Baytown, TX",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
@@ -269,8 +269,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
   },
   {
-    name: "Project Name | Additional Description",
-    location: "City, State",
+    name: "Buckley City Hall",
+    location: "Buckley, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
@@ -282,8 +282,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
   },
   {
-    name: "Project Name | Additional Description",
-    location: "City, State",
+    name: "City of Dupont Public Works",
+    location: "Dupont, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
@@ -295,8 +295,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
   },
   {
-    name: "Project Name | Additional Description",
-    location: "City, State",
+    name: "Mud Bay Office | Tenant Improvement",
+    location: "Olympia, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
@@ -308,8 +308,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
   },
   {
-    name: "Project Name | Additional Description",
-    location: "City, State",
+    name: "North Thurston Public Schools | RMAC South",
+    location: "Lacey, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
@@ -321,8 +321,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
   },
   {
-    name: "Project Name | Additional Description",
-    location: "City, State",
+    name: "Plano Fire Training Center",
+    location: "Plano, TX",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
@@ -334,8 +334,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
   },
   {
-    name: "Project Name | Additional Description",
-    location: "City, State",
+    name: "San Marcos Sation 3",
+    location: "San Marcos, TX",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
@@ -347,8 +347,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
   },
   {
-    name: "Project Name | Additional Description",
-    location: "City, State",
+    name: "Saint Martin's University | Lacey Maker Space",
+    location: "Lacey, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
@@ -360,8 +360,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
   },
   {
-    name: "Project Name | Additional Description",
-    location: "City, State",
+    name: "Saint Martin's University | Nursing Building",
+    location: "Lacey, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
@@ -373,8 +373,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
   },
   {
-    name: "Project Name | Additional Description",
-    location: "City, State",
+    name: "Saint Martin's University | Science Building",
+    location: "Lacey, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
@@ -386,8 +386,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
   },
   {
-    name: "Project Name | Additional Description",
-    location: "City, State",
+    name: "Spring Logisitics Center | Phase I",
+    location: "Spring, TX",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
@@ -399,8 +399,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
   },
   {
-    name: "Project Name | Additional Description",
-    location: "City, State",
+    name: "Strode Residence",
+    location: "Olympia, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
@@ -412,8 +412,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
   },
   {
-    name: "Project Name | Additional Description",
-    location: "City, State",
+    name: "Timberline High School | New PE Facility",
+    location: "Lacey, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
@@ -425,8 +425,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
   },
   {
-    name: "Project Name | Additional Description",
-    location: "City, State",
+    name: "Well 80",
+    location: "Olympia, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
