@@ -225,19 +225,151 @@ export const PROJECTS_INFO: ProjectProps[] = [
     media: [
       "Forma-construction.jpg",
       "Forma TI site plan test 20_40.jpg",
+      "talc-rendering_web.jpg",
+      "talc-teaching-space_web.jpg",
     ],
   },
   {
-    name: "FORMA Construction | Tenant Improvement",
-    location: "Olympia, WA",
+    name: "Project Name | Additional Description",
+    location: "City, State",
     description:
-      "Tovani Hart worked closely with FORMA Construction to design a new main office....",
-    coverImage: "forma_cover_72dpi-285px.jpg",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "Cover Image_In Progress_72dpi-285px",
     media: [
-      "Forma-construction.jpg",
-      "Forma TI site plan test 20_40.jpg",
-      "talc-rendering_web.jpg",
-      "talc-teaching-space_web.jpg",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+    ],
+  },
+  {
+    name: "Project Name | Additional Description",
+    location: "City, State",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "Cover Image_In Progress_72dpi-285px",
+    media: [
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+    ],
+  },
+  {
+    name: "Project Name | Additional Description",
+    location: "City, State",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "Cover Image_In Progress_72dpi-285px",
+    media: [
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+    ],
+  },
+  {
+    name: "Project Name | Additional Description",
+    location: "City, State",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "Cover Image_In Progress_72dpi-285px",
+    media: [
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+    ],
+  },
+  {
+    name: "Project Name | Additional Description",
+    location: "City, State",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "Cover Image_In Progress_72dpi-285px",
+    media: [
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+    ],
+  },
+  {
+    name: "Project Name | Additional Description",
+    location: "City, State",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "Cover Image_In Progress_72dpi-285px",
+    media: [
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+    ],
+  },
+  {
+    name: "Project Name | Additional Description",
+    location: "City, State",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "Cover Image_In Progress_72dpi-285px",
+    media: [
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+    ],
+  },
+  {
+    name: "Project Name | Additional Description",
+    location: "City, State",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "Cover Image_In Progress_72dpi-285px",
+    media: [
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+    ],
+  },
+  {
+    name: "Project Name | Additional Description",
+    location: "City, State",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "Cover Image_In Progress_72dpi-285px",
+    media: [
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+    ],
+  },
+  {
+    name: "Project Name | Additional Description",
+    location: "City, State",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "Cover Image_In Progress_72dpi-285px",
+    media: [
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+    ],
+  },
+  {
+    name: "Project Name | Additional Description",
+    location: "City, State",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "Cover Image_In Progress_72dpi-285px",
+    media: [
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
+      "Cover Image_In Progress_72dpi-285px",
     ],
   },
 ];
