@@ -225,8 +225,11 @@ export const PROJECTS_INFO: ProjectProps[] = [
     media: [
       "Forma-construction.jpg",
       "Forma TI site plan test 20_40.jpg",
-      "talc-rendering_web.jpg",
-      "talc-teaching-space_web.jpg",
+      "Forma TI site plan test 30_60.jpg",
+      "Forma TI site plan test 40_40.jpg",
+      "Forma TI site plan test 40_60.jpg",
+      "Forma TI site plan test Grey Scale 1.jpg",
+      "Forma TI site plan test Grey Scale 30% transparency.jpg",
     ],
   },
   {
