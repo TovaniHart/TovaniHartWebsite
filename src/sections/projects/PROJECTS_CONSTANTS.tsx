@@ -270,6 +270,45 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
+          ],
+  },
+  {
+    name: "Buckley City Hall",
+    location: "Buckley, WA",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "buckley_cover.jpg",
+    media: [
+      "buckley_construction.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+    ],
+  },
+  {
+    name: "City of Dupont Public Works",
+    location: "Dupont, WA",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "dupont_cover.jpg",
+    media: [
+      "dupont_photo.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+    ],
+  },
+  {
+    name: "Mud Bay Office | Tenant Improvement",
+    location: "Olympia, WA",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "mud_bay_cover.jpg",
+    media: [
+      "mud_bay_construction.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
     ],
   },
 ];
