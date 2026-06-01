@@ -180,6 +180,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "adna_gym-72dpi-258px.jpg",
     media: [
       "adna_gym-72dpi-1400px.jpg",
+      "ADNA ES with 40 site transparency.jpg",
+      "ADNA ES with Existing and New transparency 20 existing and 40 site.jpg",
       "adna_classroom-72dpi-1400px.jpg",
       "adna_classroom02-72dpi-1400px.jpg",
       "adna_walkway-72dpi-1400px.jpg",
@@ -224,11 +226,10 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "forma_cover_72dpi-285px.jpg",
     media: [
       "Forma-construction.jpg",
-      "Forma TI site plan test 20_40.jpg",
       "Forma TI site plan test Grey Scale 1.jpg",
       "Forma TI site plan test Grey Scale 30 transparency.jpg",
       "Forma TI site plan test Grey Scale exist 30 transparency_251 site.jpg",
-      "Forma TI site plan test Grey Scale exist 30 transparency_252 site.jpg",
+      <br><br>
       "ADNA ES with 40 site transparency.jpg",
       "ADNA ES with Existing and New transparency 20 existing and 40 site.jpg",
     ],
