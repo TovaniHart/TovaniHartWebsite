@@ -81,7 +81,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
   {
     name: "Waterfront Residence",
     location: "Olympia, Washington",
-    description: "",
+    description: "text text text",
     coverImage: "waterfront-residence_72dpi-285px.jpg",
     media: [
       "Martin Residence 30 transparency_251 site.jpg",
