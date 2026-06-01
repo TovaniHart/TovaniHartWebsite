@@ -85,6 +85,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "waterfront-residence_72dpi-285px.jpg",
     media: [
       "waterfront-residence-horz.jpg",
+      "Martin Residence 30 transparency_251 site",
       "martin-entry-72dpi-1400px.jpg",
       "martin-kitchen-72dpi-1400px.jpg",
       "martin-greatrm-72dpi-1400px.jpg",
