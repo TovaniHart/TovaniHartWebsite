@@ -309,6 +309,45 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
+          ],
+  },
+  {
+    name: "North Thurston Public Schools | RMAC South",
+    location: "Lacey, WA",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "rmac_cover.jpg",
+    media: [
+      "rmac_render.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+    ],
+  },
+  {
+    name: "Plano Fire Training Center",
+    location: "Plano, TX",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "plano_cover.jpg",
+    media: [
+      "plano_plans.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+    ],
+  },
+  {
+    name: "San Marcos Sation 3",
+    location: "San Marcos, TX",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "san_marcos_cover.jpg",
+    media: [
+      "san_marcos_render.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
     ],
   },
 ];
