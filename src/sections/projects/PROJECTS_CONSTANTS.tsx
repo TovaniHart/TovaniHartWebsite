@@ -251,9 +251,9 @@ export const PROJECTS_INFO: ProjectProps[] = [
     location: "Olympia, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
+    coverImage: "avanti_cover",
     media: [
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "avanti_Entrance.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
@@ -264,9 +264,9 @@ export const PROJECTS_INFO: ProjectProps[] = [
     location: "Baytown, TX",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
+    coverImage: "baytown_fire_training.jpg",
     media: [
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "baytown_fire.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
@@ -277,9 +277,9 @@ export const PROJECTS_INFO: ProjectProps[] = [
     location: "Buckley, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
+    coverImage: "buckley_cover.jpg",
     media: [
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "buckley_construction.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
@@ -290,9 +290,9 @@ export const PROJECTS_INFO: ProjectProps[] = [
     location: "Dupont, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
+    coverImage: "dupont_cover.jpg",
     media: [
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "dupont_photo.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
@@ -303,9 +303,9 @@ export const PROJECTS_INFO: ProjectProps[] = [
     location: "Olympia, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
+    coverImage: "mud_bay_cover.jpg",
     media: [
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "mud_bay_construction.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
@@ -316,9 +316,9 @@ export const PROJECTS_INFO: ProjectProps[] = [
     location: "Lacey, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
+    coverImage: "rmac_cover.jpg",
     media: [
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "rmac_render.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
@@ -329,9 +329,9 @@ export const PROJECTS_INFO: ProjectProps[] = [
     location: "Plano, TX",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
+    coverImage: "plano_cover.jpg",
     media: [
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "plano_plans.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
@@ -342,9 +342,9 @@ export const PROJECTS_INFO: ProjectProps[] = [
     location: "San Marcos, TX",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
+    coverImage: "san_marcos_cover.jpg",
     media: [
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "san_marcos_render.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
@@ -368,9 +368,9 @@ export const PROJECTS_INFO: ProjectProps[] = [
     location: "Lacey, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
+    coverImage: "smu_nursing_cover.jpg",
     media: [
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "smu_nursing.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
@@ -381,9 +381,9 @@ export const PROJECTS_INFO: ProjectProps[] = [
     location: "Lacey, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
+    coverImage: "smu_science_cover.jpg",
     media: [
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "smu_science_render.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
@@ -394,9 +394,9 @@ export const PROJECTS_INFO: ProjectProps[] = [
     location: "Spring, TX",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
+    coverImage: "spring_cover.jpg",
     media: [
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Spring_aerial.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
@@ -407,9 +407,9 @@ export const PROJECTS_INFO: ProjectProps[] = [
     location: "Olympia, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
+    coverImage: "strode_cover.jpg",
     media: [
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "strode_render.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
