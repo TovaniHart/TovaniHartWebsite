@@ -48,22 +48,6 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
   },
   {
-    name: "New Aspire Middle School",
-    location: "Lacey, Washington",
-    description:
-      "Tovani Hart worked closely with NTPS through initial planning to purchase a vacant 80,000 square foot athletic facility and convert it into school district use. This multi-phased project began with a demolition phase to clean and secure the facility. A Temporary Use phase to support the adjacent high school modernization project through providing surge space and a third phase currently in process with design phase services to meet the needs of relocating New Aspire Middle School. This project has included complex master planning including boundary line adjustments and dedication of rights-of-way and persistent involvement with the City of Olympia through complicated changes in how the project is to be permitted. Project highlights include high school competition gymnasium, impressive circulation corridor and the expressed existing, reinforced structure. Phase III will be constructed while students occupy the temporary use space.",
-    coverImage: "asipre_cover_remove.jpg",
-    media: [
-      "aspire-ext-1.jpg",
-      "aspire-detail.jpg",
-      "aspire-int-1.jpg",
-      "aspire-int-2.jpg",
-      "aspire-int-3.JPG",
-      "aspire-plan.png",
-      "aspire-entry.jpg",
-    ],
-  },
-  {
     name: "Well 80 | Former Olympia Fireplace and Spa",
     location: "Olympia, Washington",
     description:
@@ -157,23 +141,6 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
    },
   {
-    name: "The Percival Condominiums",
-    location: "Olympia, Washington",
-    description:
-      "In June of 2017, Tovani Hart was invited to participate in the design of a seven story condominium building in downtown Olympia, Washington.  Sited directly across from Percival Landing Park in the heart of the City, the condominiums are adjacent to several well-established businesses including restaurants, night clubs, along with Olympia’s Community Center.  Capitalizing on the natural amenities of the location, the building opens to views on all sides and includes unobstructed vistas of Budd Inlet and the Olympic Peninsula.  The 28 unit building provides a variety of plan options ranging from one bedroom plus a den at approximately 1,300 square feet, to two bedrooms plus a den with approximately 2,370 square feet.  The first two levels include lobby access and a secure private parking structure for residents.  Each unit is designed with open concept great rooms, expansive views and a large balcony.",
-    coverImage: "percival_cover_remove.jpg",
-    media: [
-      "percival_ext-render.jpg",
-      "percival-3-6-flr-plan.jpg",
-      "percival-7th-flr-plan.jpg",
-      "percival_int-render.jpg",
-      "percival_int-render-ne.jpg",
-      "percival-mktg-301.jpg",
-      "percival-mktg-703.jpg",
-      "percival_int-render-mbed-sw.jpg",
-    ],
-   },
-  {
     name: "Adna Elementary School | Modernization and Addition",
     location: "Adna, Washington",
     description:
@@ -189,20 +156,6 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "adna_classadd.jpg",
       "adna_classroom.jpg",
       "adna_walkway.jpg",
-    ],
-   },
-  {
-    name: "Owens Residence | Multi-Phased Remodel",
-    location: "Olympia, Washington",
-    description:
-      "This residential project is within an established Olympia neighborhood nestled at the end of the cul-de-sac. The first phase of work focused on necessary home repairs to the siding, roofing and existing wood burning fireplace, and chimney. In process of residing the exterior the Owner made a decision to express the design elements of their Colonial home by incorporating functional shutters, inlaid brickwork in walkways and patios, expressive exterior trim and a new covered porch with copper detailing. The second phase included an extensive first floor remodel of the foyer, kitchen, dining room, laundry, guest bath, and family rooms. Originally there were several doorways to access the kitchen, dining, and laundry rooms resulting in expansive circulation space and a very small kitchen, the remodel yielded a large open kitchen with peninsula that opens to the adjacent family room. The new office space supports desk area for the entire family including a small sitting area.",
-    coverImage: "owens_cover_remove.jpg",
-    media: [
-      "owens_alt.jpg",
-      "owens-entry-render.jpg",
-      "owens_door.jpg",
-      "owens_kitchen.jpg",
-      "owens_kitchen2.jpg",
     ],
    },
   {
@@ -312,13 +265,17 @@ export const PROJECTS_INFO: ProjectProps[] = [
     name: "North Thurston Public Schools | RMAC South",
     location: "Lacey, WA",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Tovani Hart worked closely with NTPS through initial planning to purchase a vacant 80,000 square foot athletic facility and convert it into school district use. This multi-phased project began with a demolition phase to clean and secure the facility. A Temporary Use phase to support the adjacent high school modernization project through providing surge space and a third phase currently in process with design phase services to meet the needs of relocating New Aspire Middle School. This project has included complex master planning including boundary line adjustments and dedication of rights-of-way and persistent involvement with the City of Olympia through complicated changes in how the project is to be permitted. Project highlights include high school competition gymnasium, impressive circulation corridor and the expressed existing, reinforced structure. Phase III will be constructed while students occupy the temporary use space.",
     coverImage: "rmac_cover.jpg",
     media: [
       "rmac_render.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "aspire-ext-1.jpg",
+      "aspire-detail.jpg",
+      "aspire-int-1.jpg",
+      "aspire-int-2.jpg",
+      "aspire-int-3.JPG",
+      "aspire-plan.png",
+      "aspire-entry.jpg",
     ],
    },
   {
@@ -410,6 +367,53 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
+    ],
+   },
+  {
+    name: "New Aspire Middle School",
+    location: "Lacey, Washington",
+    description:
+      "Tovani Hart worked closely with NTPS through initial planning to purchase a vacant 80,000 square foot athletic facility and convert it into school district use. This multi-phased project began with a demolition phase to clean and secure the facility. A Temporary Use phase to support the adjacent high school modernization project through providing surge space and a third phase currently in process with design phase services to meet the needs of relocating New Aspire Middle School. This project has included complex master planning including boundary line adjustments and dedication of rights-of-way and persistent involvement with the City of Olympia through complicated changes in how the project is to be permitted. Project highlights include high school competition gymnasium, impressive circulation corridor and the expressed existing, reinforced structure. Phase III will be constructed while students occupy the temporary use space.",
+    coverImage: "asipre_cover_remove.jpg",
+    media: [
+      "aspire-ext-1.jpg",
+      "aspire-detail.jpg",
+      "aspire-int-1.jpg",
+      "aspire-int-2.jpg",
+      "aspire-int-3.JPG",
+      "aspire-plan.png",
+      "aspire-entry.jpg",
+     ],
+   },
+  {
+    name: "The Percival Condominiums",
+    location: "Olympia, Washington",
+    description:
+      "In June of 2017, Tovani Hart was invited to participate in the design of a seven story condominium building in downtown Olympia, Washington.  Sited directly across from Percival Landing Park in the heart of the City, the condominiums are adjacent to several well-established businesses including restaurants, night clubs, along with Olympia’s Community Center.  Capitalizing on the natural amenities of the location, the building opens to views on all sides and includes unobstructed vistas of Budd Inlet and the Olympic Peninsula.  The 28 unit building provides a variety of plan options ranging from one bedroom plus a den at approximately 1,300 square feet, to two bedrooms plus a den with approximately 2,370 square feet.  The first two levels include lobby access and a secure private parking structure for residents.  Each unit is designed with open concept great rooms, expansive views and a large balcony.",
+    coverImage: "percival_cover_remove.jpg",
+    media: [
+      "percival_ext-render.jpg",
+      "percival-3-6-flr-plan.jpg",
+      "percival-7th-flr-plan.jpg",
+      "percival_int-render.jpg",
+      "percival_int-render-ne.jpg",
+      "percival-mktg-301.jpg",
+      "percival-mktg-703.jpg",
+      "percival_int-render-mbed-sw.jpg",
+     ],
+   },
+  {
+    name: "Owens Residence | Multi-Phased Remodel",
+    location: "Olympia, Washington",
+    description:
+      "This residential project is within an established Olympia neighborhood nestled at the end of the cul-de-sac. The first phase of work focused on necessary home repairs to the siding, roofing and existing wood burning fireplace, and chimney. In process of residing the exterior the Owner made a decision to express the design elements of their Colonial home by incorporating functional shutters, inlaid brickwork in walkways and patios, expressive exterior trim and a new covered porch with copper detailing. The second phase included an extensive first floor remodel of the foyer, kitchen, dining room, laundry, guest bath, and family rooms. Originally there were several doorways to access the kitchen, dining, and laundry rooms resulting in expansive circulation space and a very small kitchen, the remodel yielded a large open kitchen with peninsula that opens to the adjacent family room. The new office space supports desk area for the entire family including a small sitting area.",
+    coverImage: "owens_cover_remove.jpg",
+    media: [
+      "owens_alt.jpg",
+      "owens-entry-render.jpg",
+      "owens_door.jpg",
+      "owens_kitchen.jpg",
+      "owens_kitchen2.jpg",
     ],
   },
 ];
