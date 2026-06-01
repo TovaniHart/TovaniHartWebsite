@@ -227,6 +227,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Forma TI site plan test 20_40.jpg",
       "Forma TI site plan test Grey Scale 1.jpg",
       "Forma TI site plan test Grey Scale 30 transparency.jpg",
+      "Forma TI site plan test Grey Scale exist 30 transparency_251 site.jpg",
+      "Forma TI site plan test Grey Scale exist 30 transparency_252 site.jpg",
       "ADNA ES with 40 site transparency.jpg",
       "ADNA ES with Existing and New transparency 20 existing and 40 site.jpg",
     ],
@@ -236,9 +238,9 @@ export const PROJECTS_INFO: ProjectProps[] = [
     location: "Lakewood, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
+    coverImage: "connelly_cover.jpg",
     media: [
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "connelly_bath.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
