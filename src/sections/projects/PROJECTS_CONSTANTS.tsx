@@ -84,6 +84,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     description: "",
     coverImage: "waterfront-residence_72dpi-285px.jpg",
     media: [
+      "Martin Residence 30 transparency_251 site.jpg",
       "waterfront-residence-horz.jpg",
       "martin-entry-72dpi-1400px.jpg",
       "martin-kitchen-72dpi-1400px.jpg",
@@ -266,6 +267,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "baytown_fire_training.jpg",
     media: [
       "baytown_fire.jpg",
+      "Baytown Phase III 30 transparency_251 site.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
@@ -354,9 +356,9 @@ export const PROJECTS_INFO: ProjectProps[] = [
     location: "Lacey, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
+    coverImage: "lacey_maker_cover.jpg",
     media: [
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "lacey_maker_space.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
