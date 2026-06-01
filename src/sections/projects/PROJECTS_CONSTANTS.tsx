@@ -77,7 +77,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "ofs-const-1.jpg",
       "ofs-const-2.jpg",
     ],
-  },
+   },
   {
     name: "Waterfront Residence",
     location: "Olympia, Washington",
@@ -93,7 +93,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "martin-patiosm-72dpi-1400px.jpg",
       "martin-greatrm02-72dpi-1400px.jpg",
     ],
-  },
+   },
   {
     name: "Tumwater High School PE Improvments",
     location: "Tumwater, Washington",
@@ -107,7 +107,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "ths-ext-detail2.jpg",
       "ths-interior-2.jpg",
     ],
-  },
+   },
   {
     name: "Residential | Olympia Boat Storage",
     location: "Olympia, Washington",
@@ -124,7 +124,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "foley_extshower.jpg",
       "foley_barrelvault.jpg",
     ],
-  },
+   },
   {
     name: "Auxiliary Gymnasium",
     location: "Lacey, Washington",
@@ -140,7 +140,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "ntps-rrhs-aux-gym-const_72dpi.jpg",
       "ntps-rrhs-aux-gym-elev_72dpi.jpg",
     ],
-  },
+   },
   {
     name: "Olympia School District | Capital High School Fitness Addition and Modernization",
     location: "Olympia, Washington",
@@ -154,7 +154,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "chs-wr_interior-finishes.jpg",
       "chs-wr_westelev.jpg",
     ],
-  },
+   },
   {
     name: "The Percival Condominiums",
     location: "Olympia, Washington",
@@ -171,7 +171,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "percival-mktg-703.jpg",
       "percival_int-render-mbed-sw.jpg",
     ],
-  },
+   },
   {
     name: "Adna Elementary School | Modernization and Addition",
     location: "Adna, Washington",
@@ -188,7 +188,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "adna_classroom.jpg",
       "adna_walkway.jpg",
     ],
-  },
+   },
   {
     name: "Owens Residence | Multi-Phased Remodel",
     location: "Olympia, Washington",
@@ -202,7 +202,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "owens_kitchen.jpg",
       "owens_kitchen2.jpg",
     ],
-  },
+   },
   {
     name: "Tumwater Alternative Learning Center",
     location: "Tumwater, WA",
@@ -215,7 +215,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "talc-rendering_web.jpg",
       "talc-teaching-space_web.jpg",
     ],
-  },
+   },
   {
     name: "FORMA Construction | Tenant Improvement",
     location: "Olympia, WA",
@@ -231,8 +231,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Forma TI site plan test Grey Scale exist 30 transparency_252 site.jpg",
       "ADNA ES with 40 site transparency.jpg",
       "ADNA ES with Existing and New transparency 20 existing and 40 site.jpg",
-      ],
-  },
+    ],
+   },
   {
     name: "Connelly Residence",
     location: "Lakewood, WA",
@@ -245,7 +245,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
-  },
+   },
   {
     name: "Avanti HS | Knox Gym Remodel",
     location: "Olympia, WA",
@@ -258,7 +258,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
-  },
+   },
   {
     name: "Baytown | Phase III",
     location: "Baytown, TX",
@@ -270,8 +270,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
-          ],
-  },
+    ],
+   },
   {
     name: "Buckley City Hall",
     location: "Buckley, WA",
@@ -284,7 +284,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
-  },
+   },
   {
     name: "City of Dupont Public Works",
     location: "Dupont, WA",
@@ -297,7 +297,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
-  },
+   },
   {
     name: "Mud Bay Office | Tenant Improvement",
     location: "Olympia, WA",
@@ -309,8 +309,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
-          ],
-  },
+     ],
+   },
   {
     name: "North Thurston Public Schools | RMAC South",
     location: "Lacey, WA",
@@ -323,7 +323,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
-  },
+   },
   {
     name: "Plano Fire Training Center",
     location: "Plano, TX",
@@ -336,7 +336,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
-  },
+   },
   {
     name: "San Marcos Sation 3",
     location: "San Marcos, TX",
@@ -348,8 +348,8 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
-          ],
-  },
+    ],
+   },
   {
     name: "Saint Martin's University | Lacey Maker Space",
     location: "Lacey, WA",
@@ -362,7 +362,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
-  },
+   },
   {
     name: "Saint Martin's University | Nursing Building",
     location: "Lacey, WA",
@@ -375,7 +375,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
-  },
+   },
   {
     name: "Saint Martin's University | Science Building",
     location: "Lacey, WA",
@@ -384,6 +384,71 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "smu_science_cover.jpg",
     media: [
       "smu_science_render.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+    ],
+   },
+  {
+    name: "Spring Logisitics Center | Phase I",
+    location: "Spring, TX",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "spring_cover.jpg",
+    media: [
+      "Spring_aerial.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+    ],
+   },
+  {
+    name: "Strode Residence",
+    location: "Olympia, WA",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "strode_cover.jpg",
+    media: [
+      "strode_render.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+    ],
+   },
+  {
+    name: "Timberline High School | New PE Facility",
+    location: "Lacey, WA",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
+    media: [
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+    ],
+   },
+  {
+    name: "Well 80",
+    location: "Olympia, WA",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
+    media: [
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+      "Cover Image_In Progress_72dpi-285px.jpg",
+    ],
+   },
+  {
+    name: "Project Name | Additional Description",
+    location: "City, State",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    coverImage: "Cover Image_In Progress_72dpi-285px.jpg",
+    media: [
+      "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
