@@ -228,7 +228,6 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Forma-construction.jpg",
       "Forma TI site plan test Grey Scale exist 30 transparency_251 site.jpg",
       "Forma TI site plan test Grey Scale 30 transparency.jpg",
-      "Forma TI site plan test Grey Scale 1.jpg",
       "ADNA ES with 40 site transparency.jpg",
       "ADNA ES with Existing and New transparency 20 existing and 40 site.jpg",
     ],
