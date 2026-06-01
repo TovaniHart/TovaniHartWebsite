@@ -42,6 +42,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "609-thumb.jpg",
     media: [
       "609-const-2.jpg",
+      "609_columbia_plan.jpg",
       "609-int-1.jpg",
       "609-door-sketch.jpg",
       "609-doors.jpg",
@@ -69,6 +70,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "waterfront-residence_72dpi-285px.jpg",
     media: [
       "waterfront-residence-horz.jpg",
+      "martin_residence_plan.jpg",
       "Martin Residence 30 transparency_251 site",
       "martin-entry-72dpi-1400px.jpg",
       "martin-kitchen-72dpi-1400px.jpg",
@@ -179,7 +181,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "forma_cover_72dpi-285px.jpg",
     media: [
       "Forma-construction.jpg",
-      "Forma TI site plan test Grey Scale exist 30 transparency_251 site.jpg",
+      "forma_ti_plan.jpg",
     ],
    },
   {
@@ -216,7 +218,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "baytown_fire_training.jpg",
     media: [
       "baytown_fire.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "baytown_phase_3_plan.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
