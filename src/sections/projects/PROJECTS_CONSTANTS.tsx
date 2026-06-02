@@ -181,12 +181,10 @@ export const PROJECTS_INFO: ProjectProps[] = [
     media: [
       "forma_cover_72dpi-1400px.jpg",
       "forma_ti_plan.jpg",
-      "forma_sketch_72dpi-285px.jpg",
       "forma_programming_72dpi-1400px.jpg",
-      "forma_materials_72dpi-285px.jpg",
+      "forma_sketch_72dpi-285px.jpg",
       "forma_model_72dpi-285px.jpg",
       "forma_reception_72dpi-1400px.jpg",
-      "forma_lighting_72dpi-1400px.jpg",
       "forma_office_72dpi-1400px.jpg",
       "forma_lighting_72dpi-1400px.jpg",
       "forma_kitchenette_72dpi-1400px.jpg",
