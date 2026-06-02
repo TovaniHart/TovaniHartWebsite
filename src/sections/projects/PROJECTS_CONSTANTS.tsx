@@ -204,7 +204,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "avanti_cover.jpg",
     media: [
       "avanti_entrance.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "avanti_hs_knox_gym_plan.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
