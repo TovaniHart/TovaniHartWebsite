@@ -167,6 +167,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "talc-285x285_web.jpg",
     media: [
       "talc-rendering_web.jpg",
+      "talc_plan.jpg",
       "talc-entry_web.jpg",
       "talc-rendering_web.jpg",
       "talc-teaching-space_web.jpg",
