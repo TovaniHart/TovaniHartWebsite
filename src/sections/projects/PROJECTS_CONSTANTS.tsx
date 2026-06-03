@@ -199,6 +199,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "forma_kitchenette_72dpi-1400px.jpg",
       "forma_lighting_72dpi-1400px.jpg",
       "forma_entry_72dpi-1400px.jpg",
+      "forma_construction_72dpi-1400px.jpg",
     ],
    },
   {
