@@ -56,11 +56,11 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "oly-fp_sidewalk-72dpi-285px.jpg",
     media: [
       "oly-fp_sidewalk-72dpi-1400px.jpg",
+      "ofs-const-1.jpg",
+      "ofs-const-2.jpg",
       "oly-fp_sidewalk02-72dpi-1400px.jpg",
       "oly-fp_detail-72dpi-1400px.jpg",
       "ofs-rendering-ext.jpg",
-      "ofs-const-1.jpg",
-      "ofs-const-2.jpg",
     ],
    },
   {
@@ -71,13 +71,13 @@ export const PROJECTS_INFO: ProjectProps[] = [
     media: [
       "waterfront-residence-horz.jpg",
       "martin_residence_plan.jpg",
-      "martin-entry-72dpi-1400px.jpg",
       "martin-kitchen-72dpi-1400px.jpg",
       "martin-greatrm-72dpi-1400px.jpg",
       "martin-greatrm03-72dpi-1400px.jpg",
       "martin-lookings-72dpi-1400px.jpg",
       "martin-patiosm-72dpi-1400px.jpg",
       "martin-greatrm02-72dpi-1400px.jpg",
+      "martin-entry-72dpi-1400px.jpg",
     ],
    },
   {
@@ -87,11 +87,11 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "The THS PE Improvements Project includes an addition of approximately 3,000sf providing a new Weight training space, remodeling 150sf of existing adjacent space to include storage, mechanical and a restroom, along with refinishing floors in both the new and old gyms. Work includes extending normal electrical, communications and data capabilities, along with hydronic heating piping, domestic and fire suppression water systems. The addition will be a simple light filled space with structural systems taking on the character and of the gymnasiums including a wood deck ceiling and exposed glu-lam beams and purlins. The design incorporates a large sheltering roof providing outdoor training area connected to the weight room by large overhead sectional doors.",
     coverImage: "ths-thumb.jpg",
     media: [
-      "ths-ext-ne-corner.jpg",
       "ths-ext-detail.jpg",
+      "ths-ext-ne-corner.jpg",
       "ths-interior-1.jpg",
-      "ths-ext-detail2.jpg",
       "ths-interior-2.jpg",
+      "ths-ext-detail2.jpg",
     ],
    },
   {
@@ -102,11 +102,11 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "boat-storage_72dpi-285px.jpg",
     media: [
       "boat-storage_72dpi-1400px.jpg",
-      "foley_lower-patio.jpg",
       "foley-sketch.jpg",
+      "foley_lower-patio.jpg",
+      "foley_sketch_ext-shwr.jpg",
       "foley_planter.jpg",
       "foley_intconc.jpg",
-      "foley_sketch_ext-shwr.jpg",
       "foley_extshower.jpg",
       "foley_barrelvault.jpg",
     ],
