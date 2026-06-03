@@ -45,7 +45,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "609_columbia_plan.jpg",
       "609-door-sketch.jpg",
       "609_elevation_72dpi_1400px.jpg",
-      "609_doors_construction_72dpi_1400px.jpg"
+      "609_doors_construction_72dpi_1400px.jpg",
       "609-const-2.jpg",
       "609-int-1.jpg",
     ],
