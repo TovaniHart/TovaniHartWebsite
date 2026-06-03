@@ -215,8 +215,12 @@ export const PROJECTS_INFO: ProjectProps[] = [
     media: [
       "avanti_entrance_72dpi_1400px.jpg",
       "avanti_hs_knox_gym_plan.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "avanti_site_72dpi_1400px.jpg",
+      "avanti_doors_72dpi_1400px.jpg",
+      "avanti_hallway_72dpi_1400px.jpg",
+      "avanti_hoods_72dpi_1400px.jpg",
+      "avanti_window_72dpi_1400px.jpg",
+      "avanti_window_south_72dpi_1400px.jpg",
     ],
    },
   {
