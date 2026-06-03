@@ -168,7 +168,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     media: [
       "talc_rendering_72dpi_1400px.jpg",
       "talc_plan.jpg",
-      "https://player.vimeo.com/425584314" width="1440" height="500" frameborder="0" allow="autoplay; fullscreen",
+      "https://player.vimeo.com/video/425584314",
       "talc_reception_72dpi_1400px.jpg",
       "talc_hall_72dpi_1400px.jpg",
       "talc_hallway_72dpi_1400px.jpg",
