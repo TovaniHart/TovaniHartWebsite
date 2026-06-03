@@ -216,6 +216,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "avanti_entrance_72dpi_1400px.jpg",
       "avanti_hs_knox_gym_plan.jpg",
       "avanti_site_72dpi_1400px.jpg",
+      "avanti_annex_plan_72dpi_1400px.jpg",
       "avanti_doors_72dpi_1400px.jpg",
       "avanti_hallway_72dpi_1400px.jpg",
       "avanti_hoods_72dpi_1400px.jpg",
