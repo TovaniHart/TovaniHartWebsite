@@ -174,7 +174,6 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "talc_hallway_72dpi_1400px.jpg",
       "talc_corridor_72dpi_1400px.jpg",
       "talc_door_72dpi_285px.jpg",
-      "talc_column_72dpi_285px.jpg",
       "talc_ceiling_72dpi_1400px.jpg",
       "talc_teaching_space_72dpi_1400px.jpg",
       "talc_classroom_72dpi_285px.jpg",
