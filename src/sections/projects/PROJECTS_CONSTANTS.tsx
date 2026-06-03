@@ -177,10 +177,10 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "talc_ceiling_72dpi_1400px.jpg",
       "talc_teaching_space_72dpi_1400px.jpg",
       "talc_classroom_72dpi_285px.jpg",
+      "talc_bike_rack_72dpi_1400px.jpg",
       "talc_exterior_entry_72dpi_1400px.jpg",
       "talc_exterior_corner_72dpi_1400px.jpg",
       "talc_parking_72dpi_285px.jpg",
-      "talc_bike_rack_72dpi_1400px.jpg",
     ],
    },
   {
