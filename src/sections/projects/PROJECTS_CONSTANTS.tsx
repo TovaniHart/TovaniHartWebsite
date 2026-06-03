@@ -119,12 +119,12 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "ntps-rrhs-aux-gym_285x285.jpg",
     media: [
       "ntps-rrhs-aux-gym_72dpi.jpg",
+      "ntps-rrhs-aux-gym-siteplan_72dpi.jpg",
+      "ntps-rrhs-aux-gym-elev_72dpi.jpg",
+      "ntps-rrhs-aux-gym-const2_72dpi.jpg",
+      "ntps-rrhs-aux-gym-const_72dpi.jpg",
       "ntps-aux-gym_72dpi-exterior-north.jpg",
       "ntps-rrhs-aux-gym_72dpi-exterior-south.jpg",
-      "ntps-rrhs-aux-gym-const2_72dpi.jpg",
-      "ntps-rrhs-aux-gym-siteplan_72dpi.jpg",
-      "ntps-rrhs-aux-gym-const_72dpi.jpg",
-      "ntps-rrhs-aux-gym-elev_72dpi.jpg",
     ],
    },
   {
