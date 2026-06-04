@@ -141,23 +141,6 @@ export const PROJECTS_INFO: ProjectProps[] = [
     media: [
       "chs_wr_west_elevation_72dpi_1400px.jpg",
       "chs_weightroom_plan_key.jpg",
-      "chs_wr_ceiling_72dpi_1400px.jpg",
-      "chs_wr_exterior_construction_72dpi_1400px.jpg",
-      "chs_wr_interior_finishes_72dpi_1400px.jpg",
-      "chs_wr_room_72dpi_1400px.jpg",
-      "chs_wr_lockers_72dpi_1400px.jpg",
-      "chs_wr_exterior_72dpi_1400px.jpg",
-      "chs_wr_exterior_canopy_72dpi_1400px.jpg",
-    ],
-   },
-  {
-    name: "Olympia School District | Capital High School Fitness Addition and Modernization",
-    location: "Olympia, Washington",
-    description:
-      "This project included 22,532 square feet of renovation area and 3,327 square feet of building addition. The existing spaces did not meet the needs of the physical education and athletic departments, and the interior finishes throughout the existing space had exceeded their useful life. The following major needs were addressed in the addition and modernization: \n \u2022Visible, publicly accessible, integrated cardio and weight room spaces \u2022Boys locker room divisible into two areas & Girls locker room expanded/updated for gender parity \u2022Secure indoor storage for each sport \u2022Referee toilet and shower facilities not accessed from within locker rooms \u2022Larger modern sports medicine space \u2022Replacement of aging finishes throughout existing spaces & existing mezzanine gym flooring \n In response to the identified needs, Tovani Hart developed an addition that fits with the character of the existing school and put together a phased design package that allowed construction to occur while the school was occupied. This project was completed September, 2014.",
-    coverImage: "chs-thumb.jpg",
-    media: [
-      "chs_wr_west_elevation_72dpi_1400px.jpg",
       "chs_weightroom_site_plan.jpg",
       "chs_weightroom_plan.jpg",
       "chs_wr_ceiling_72dpi_1400px.jpg",
