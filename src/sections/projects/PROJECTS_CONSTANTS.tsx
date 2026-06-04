@@ -180,7 +180,9 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "talc_rendering_72dpi_1400px.jpg",
       "talc_plan.jpg",
       "https://player.vimeo.com/video/425584314",
-      "Screenshot 2026-06-04 092539.jpg",
+      "<a href="https://vimeo.com/425584314?share=copy&fl=cl&fe=ci#t=44">
+  <img src="Screenshot 2026-06-04 092539.jpg" alt="Description" />
+</a>",
       "talc_reception_72dpi_1400px.jpg",
       "talc_hall_72dpi_1400px.jpg",
       "talc_hallway_72dpi_1400px.jpg",
