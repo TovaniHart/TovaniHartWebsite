@@ -140,7 +140,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "chs-thumb.jpg",
     media: [
       "chs_wr_west_elevation_72dpi_1400px.jpg",
-      "chs_weightroom_plan_key.jpg",
+      "chs_weightroom_plan_key1.jpg",
       "chs_weightroom_site_plan.jpg",
       "chs_weightroom_plan.jpg",
       "chs_wr_ceiling_72dpi_1400px.jpg",
