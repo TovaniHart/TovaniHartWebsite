@@ -143,6 +143,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "chs_weightroom_plan_key1.jpg",
       "chs_weightroom_site_plan.jpg",
       "chs_weightroom_plan.jpg",
+      "chs_weigth_room_map.jpg",
       "chs_wr_ceiling_72dpi_1400px.jpg",
       "chs_wr_exterior_construction_72dpi_1400px.jpg",
       "chs_wr_interior_finishes_72dpi_1400px.jpg",
