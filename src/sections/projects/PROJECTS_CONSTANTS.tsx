@@ -42,7 +42,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "609_cover_72dpi_1400px.jpg",
     media: [
       "609_doors_72dpi_1400px.jpg",
-      "609_columbia_plan.jpg",
+      "609_columbia_plan_72dpi_1400px.jpg",
       "609_elevation_72dpi_1400px.jpg",
       "609-door-sketch.jpg",
       "609_doors_construction_72dpi_1400px.jpg",
@@ -59,6 +59,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "oly-fp_sidewalk-72dpi-285px.jpg",
     media: [
       "oly-fp_sidewalk-72dpi-1400px.jpg",
+      "well_80_plan_72dpi_1400px.jpg",
       "ofs-const-1.jpg",
       "ofs-const-2.jpg",
       "oly-fp_sidewalk02-72dpi-1400px.jpg",
@@ -73,7 +74,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "waterfront-residence_72dpi-285px.jpg",
     media: [
       "waterfront-residence-horz.jpg",
-      "martin_residence_plan.jpg",
+      "martin_residence_plan_72dpi_1400px.jpg",
       "martin-kitchen-72dpi-1400px.jpg",
       "martin-greatrm-72dpi-1400px.jpg",
       "martin-greatrm03-72dpi-1400px.jpg",
@@ -91,6 +92,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "ths-thumb.jpg",
     media: [
       "ths-ext-detail.jpg",
+      "ths_new_pe_facility_plan_72dpi_1400px.jpg",
       "ths-ext-ne-corner.jpg",
       "ths-interior-1.jpg",
       "ths-interior-2.jpg",
@@ -105,6 +107,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "boat-storage_72dpi-285px.jpg",
     media: [
       "boat-storage_72dpi-1400px.jpg",
+      "foley_residence_plan_72dpi_1400px.jpg",
       "foley-sketch.jpg",
       "foley_sketch_ext-shwr.jpg",
       "foley_lower-patio.jpg",
@@ -124,6 +127,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "ntps-rrhs-aux-gym_285x285.jpg",
     media: [
       "ntps-rrhs-aux-gym_72dpi.jpg",
+      "ntps_rrhs_aux_gym_plan_72dpi_1400px.jpg",
       "ntps-rrhs-aux-gym-siteplan_72dpi.jpg",
       "ntps-rrhs-aux-gym-elev_72dpi.jpg",
       "ntps-rrhs-aux-gym-const2_72dpi.jpg",
@@ -140,7 +144,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "chs-thumb.jpg",
     media: [
       "chs_wr_west_elevation_72dpi_1400px.jpg",
-      "chs_weightroom_plan_key1.jpg",
+      "chs_weightroom_plan_key_72dpi_1400px.jpg",
       "chs_weightroom_site_plan.jpg",
       "chs_weightroom_plan.jpg",
       "chs_weigth_room_map.jpg",
