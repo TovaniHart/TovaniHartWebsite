@@ -107,15 +107,6 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "boat-storage_72dpi-285px.jpg",
     media: [
       "boat-storage_72dpi-1400px.jpg",
-      "foley-sketch.jpg",
-      "foley_sketch_ext-shwr.jpg",
-      "foley_lower-patio.jpg",
-      "foley_planter.jpg",
-      "foley_intconc.jpg",
-      "foley_extshower.jpg",
-      "foley_barrelvault.jpg",
-      "foley_shower_72dpi_285px.jpg",
-      "foley_driveway_72dpi_285px.jpg",
     ],
    },
   {
