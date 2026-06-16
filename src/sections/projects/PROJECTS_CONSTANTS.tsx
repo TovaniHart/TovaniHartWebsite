@@ -145,8 +145,6 @@ export const PROJECTS_INFO: ProjectProps[] = [
     media: [
       "chs_wr_west_elevation_72dpi_1400px.jpg",
       "chs_weightroom_plan_key_72dpi_1400px.jpg",
-      "chs_weightroom_site_plan.jpg",
-      "chs_weightroom_plan.jpg",
       "chs_weigth_room_map.jpg",
       "chs_wr_ceiling_72dpi_1400px.jpg",
       "chs_wr_exterior_construction_72dpi_1400px.jpg",
@@ -165,6 +163,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "adna_gym-72dpi-258px.jpg",
     media: [
       "adna_gym-72dpi-1400px.jpg",
+      "adna_es_plan_72dpi_1400px.jpg",
       "ADNA ES with 40 site transparency.jpg",
       "adna_classroom-72dpi-1400px.jpg",
       "adna_classroom02-72dpi-1400px.jpg",
@@ -183,7 +182,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "talc_cover_72dpi_285px.jpg",
     media: [
       "talc_rendering_72dpi_1400px.jpg",
-      "talc_plan.jpg",
+      "talc_plan_72dpi_1400px.jpg",
       "https://player.vimeo.com/video/425584314",
       "Screenshot 2026-06-04 092539.jpg",
       "talc_reception_72dpi_1400px.jpg",
@@ -208,7 +207,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "forma_cover_72dpi-285px.jpg",
     media: [
       "forma_cover_72dpi-1400px.jpg",
-      "forma_ti_plan.jpg",
+      "forma_ti_plan_72dpi_1400px.jpg",
       "forma_programming_72dpi-1400px.jpg",
       "forma_sketch_72dpi-285px.jpg",
       "forma_model_72dpi-285px.jpg",
@@ -229,7 +228,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "connelly_cover.jpg",
     media: [
       "connelly_bath.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "american_lake_plan_72dpi_1400px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
@@ -242,7 +241,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "avanti_cover_72dpi_285px.jpg",
     media: [
       "avanti_entrance_72dpi_1400px.jpg",
-      "avanti_hs_knox_gym_plan.jpg",
+      "avanti_hs_knox_gym_plan_72dpi_1400px.jpg",
       "avanti_site_72dpi_1400px.jpg",
       "avanti_annex_plan_72dpi_1400px.jpg",
       "avanti_doors_72dpi_1400px.jpg",
@@ -261,7 +260,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "baytown_cover_72dpi_285px.jpg",
     media: [
       "baytown_exterior_72dpi_1400px.jpg",
-      "baytown_phase_3_plan.jpg",
+      "baytown_phase_3_plan_72dpi_1400px.jpg",
       "baytown_elevations_72dpi_1400px.jpg",
       "baytown_model_72dpi_1400px.jpg",
       "baytown_interior_meeting_72dpi_1400px.jpg",
@@ -283,7 +282,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "buckley_cover.jpg",
     media: [
       "buckley_construction.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "buckley_city_hall_plan_72dpi_1400px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
@@ -296,7 +295,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "dupont_cover.jpg",
     media: [
       "dupont_photo.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "cd_public_facilities_plan_72dpi_1400px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
@@ -309,7 +308,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "mud_bay_cover.jpg",
     media: [
       "mud_bay_construction.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "mud_bay_office_ti_plan_72dpi_1400px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
      ],
@@ -322,6 +321,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "rmac_cover.jpg",
     media: [
       "rmac_render.jpg",
+      "ntps_rmac_south_plan_72dpi_1400px.jpg",
       "aspire-ext-1.jpg",
       "aspire-detail.jpg",
       "aspire-int-1.jpg",
@@ -339,7 +339,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "plano_cover.jpg",
     media: [
       "plano_plans.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "plano_ftc_plan_72dpi_1400px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
@@ -352,7 +352,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "san_marcos_cover.jpg",
     media: [
       "san_marcos_render.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "san_marcos_station_3_plan_72dpi_1400px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
@@ -365,7 +365,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "lacey_maker_cover.jpg",
     media: [
       "lacey_maker_space.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "smu_maker_space_plan_72dpi_1400px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
@@ -378,7 +378,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "smu_nursing_cover.jpg",
     media: [
       "smu_nursing.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "smu_nursing_plan_72dpi_1400px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
@@ -391,7 +391,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "smu_science_cover.jpg",
     media: [
       "smu_science_render.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "smu_science_plan_72dpi_1400px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
@@ -404,7 +404,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "spring_cover.jpg",
     media: [
       "Spring_aerial.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "spring_ftc_plan_72dpi_1400px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
@@ -417,7 +417,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "strode_cover.jpg",
     media: [
       "strode_render.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "strode_residence_plan_72dpi_1400px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
     ],
