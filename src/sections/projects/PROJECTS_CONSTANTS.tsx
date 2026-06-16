@@ -164,7 +164,6 @@ export const PROJECTS_INFO: ProjectProps[] = [
     media: [
       "adna_gym-72dpi-1400px.jpg",
       "adna_es_plan_72dpi_1400px.jpg",
-      "ADNA ES with 40 site transparency.jpg",
       "adna_classroom-72dpi-1400px.jpg",
       "adna_classroom02-72dpi-1400px.jpg",
       "adna_walkway-72dpi-1400px.jpg",
