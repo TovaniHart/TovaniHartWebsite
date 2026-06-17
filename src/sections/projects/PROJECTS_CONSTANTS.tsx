@@ -326,7 +326,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     media: [
       "mud_bay_construction_72dpi_1400px.jpg",
       "mud_bay_office_ti_plan_72dpi_1400px.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "mud_bay_sketch_a_72dpi_1400px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
