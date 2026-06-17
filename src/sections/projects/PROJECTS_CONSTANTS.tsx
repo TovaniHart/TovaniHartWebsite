@@ -39,7 +39,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     location: "Olympia, Washington",
     description:
       "Todd Tovani and Trent Hart (Tovani Hart, PC) took their commitment and pride in their business to the next level by purchasing their own property in the heart of downtown Olympia. The warehouse was constructed in 1941 with solid concrete walls, heavy timber and a leaky roof. Todd and Trent led this renovation as the General Contractor. They worked directly with local tradesman to create an office space that will be their business home. Todd and Trent honored the history and character of the building with their design. This is evident in details throughout the building.",
-    coverImage: "609_cover_72dpi_1400px.jpg",
+    coverImage: "609_cover_72dpi_285px.jpg",
     media: [
       "609_doors_72dpi_1400px.jpg",
       "609_columbia_plan_72dpi_1400px.jpg",
