@@ -183,7 +183,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "talc_rendering_72dpi_1400px.jpg",
       "talc_key_plan_72dpi_1400px.jpg",
       "https://player.vimeo.com/video/425584314",
-      "Screenshot 2026-06-04 092539.jpg",
+      "talc_vimeo_screenshot_72dpi_1400px.jpg",
       "talc_reception_72dpi_1400px.jpg",
       "talc_hall_72dpi_1400px.jpg",
       "talc_hallway_72dpi_1400px.jpg",
