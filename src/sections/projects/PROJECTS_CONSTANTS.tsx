@@ -92,7 +92,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "ths-thumb.jpg",
     media: [
       "ths-ext-detail.jpg",
-      "ths_new_pe_facility_plan_72dpi_1400px.jpg",
+      "ths_new_pe_facility_key_plan_72dpi_1400px.jpg",
       "ths-ext-ne-corner.jpg",
       "ths-interior-1.jpg",
       "ths-interior-2.jpg",
@@ -127,7 +127,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "ntps-rrhs-aux-gym_285x285.jpg",
     media: [
       "ntps-rrhs-aux-gym_72dpi.jpg",
-      "ntps_rrhs_aux_gym_plan_72dpi_1400px.jpg",
+      "ntps_rrhs_aux_gym_key_plan_72dpi_1400px.jpg",
       "ntps-rrhs-aux-gym-siteplan_72dpi.jpg",
       "ntps-rrhs-aux-gym-elev_72dpi.jpg",
       "ntps-rrhs-aux-gym-const2_72dpi.jpg",
@@ -181,7 +181,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "talc_cover_72dpi_285px.jpg",
     media: [
       "talc_rendering_72dpi_1400px.jpg",
-      "talc_plan_72dpi_1400px.jpg",
+      "talc_key_plan_72dpi_1400px.jpg",
       "https://player.vimeo.com/video/425584314",
       "Screenshot 2026-06-04 092539.jpg",
       "talc_reception_72dpi_1400px.jpg",
@@ -227,6 +227,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "connelly_cover.jpg",
     media: [
       "connelly_bath.jpg",
+      "american_lake_site_plan_72dpi_1400px.jpg",
       "american_lake_plan_72dpi_1400px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
@@ -259,6 +260,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "baytown_cover_72dpi_285px.jpg",
     media: [
       "baytown_exterior_72dpi_1400px.jpg",
+      "baytown_phase_3_site_plan_72dpi_1400px.jpg",
       "baytown_phase_3_plan_72dpi_1400px.jpg",
       "baytown_elevations_72dpi_1400px.jpg",
       "baytown_model_72dpi_1400px.jpg",
@@ -378,6 +380,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "plano_cover.jpg",
     media: [
       "plano_plans.jpg",
+      "plano_ftc_site_plan_72dpi_1400px.jpg",
       "plano_ftc_plan_72dpi_1400px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
