@@ -427,6 +427,10 @@ export const PROJECTS_INFO: ProjectProps[] = [
     media: [
       "smu_nursing_room_72dpi-1400px.jpg",
       "smu_nursing_plan_72dpi_1400px.jpg",
+      "smu_nursing_sketch_a_72dpi-1400px.jpg",
+      "smu_nursing_sketch_b_72dpi-1400px.jpg",
+      "smu_nursing_sketch_c_72dpi-1400px.jpg",
+      "smu_nursing_sketch_d_72dpi-1400px.jpg",
       "smu_nursing_care_72dpi-1400px.jpg",
       "smu_nursing_class_72dpi-1400px.jpg",
       "smu_nursing_handrail_72dpi-1400px.jpg",
