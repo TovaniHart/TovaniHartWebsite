@@ -382,6 +382,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "plano_plans.jpg",
       "plano_ftc_site_plan_72dpi_1400px.jpg",
       "plano_ftc_plan_72dpi_1400px.jpg",
+       "https://www.youtube.com/embed/EGZIrTc6jOw";  // YouTube
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
       "Cover Image_In Progress_72dpi-285px.jpg",
