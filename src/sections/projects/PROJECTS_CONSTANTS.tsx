@@ -499,12 +499,12 @@ export const PROJECTS_INFO: ProjectProps[] = [
     media: [
       "strode_render_hillside_72dpi_1400px.jpg",
       "strode_residence_plan_72dpi_1400px.jpg",
-      "strode_elevation_72dpi_1400px",
-      "strode_view_72dpi_1400px",
-      "strode_view_window_72dpi_1400px",
-      "strode_construction_basement_72dpi_1400px",
-      "strode_concrete_72dpi_1400px",
-      "strode_render_approach_72dpi_1400px",
+      "strode_elevation_72dpi_1400px.jpg",
+      "strode_view_72dpi_1400px.jpg",
+      "strode_view_window_72dpi_1400px.jpg",
+      "strode_construction_basement_72dpi_1400px.jpg",
+      "strode_concrete_72dpi_1400px.jpg",
+      "strode_render_approach_72dpi_1400px.jpg",
     ],
   },
 ];
