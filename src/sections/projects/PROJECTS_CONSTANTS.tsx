@@ -128,7 +128,6 @@ export const PROJECTS_INFO: ProjectProps[] = [
     media: [
       "ntps-rrhs-aux-gym_72dpi.jpg",
       "ntps_rrhs_aux_gym_key_plan_72dpi_1400px.jpg",
-      "ntps-rrhs-aux-gym-siteplan_72dpi.jpg",
       "ntps-rrhs-aux-gym-elev_72dpi.jpg",
       "ntps-rrhs-aux-gym-const2_72dpi.jpg",
       "ntps-rrhs-aux-gym-const_72dpi.jpg",
