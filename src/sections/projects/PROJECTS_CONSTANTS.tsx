@@ -120,7 +120,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
    },
   {
-    name: "River Ridge HS | Auxiliary Gymnasium",
+    name: "River Ridge High School | Auxiliary Gymnasium",
     location: "Lacey, Washington",
     description:
       "The Auxiliary Gymnasium adds approximately 13,000 square feet of new building for basketball, volleyball, pickle ball and a separate practice space for wrestling. This building fills a need at River Ridge High School with an ever-growing student population. Siting the building on an existing school campus with developed play-fields and utilities limited feasible options, but ultimately between the JV Baseball field and pedestrian access to 3rd Way was proven to be the best solution. The interior spaces maintain clear ceiling heights to allow for volleyball, full court basketball along with four half courts, future provisions for batting cage practice area, moveable bleacher seating for spectators, and two wrestling mats in the Mat Room. The exterior has large awnings at the north and the south entries for patron protection from the weather.",
@@ -237,7 +237,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
    },
   {
-    name: "Avanti HS | Knox Gym Remodel",
+    name: "Avanti High Sschool | Knox Gym Remodel",
     location: "Olympia, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
