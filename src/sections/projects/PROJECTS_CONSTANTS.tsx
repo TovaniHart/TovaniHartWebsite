@@ -222,13 +222,18 @@ export const PROJECTS_INFO: ProjectProps[] = [
     location: "Lakewood, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    coverImage: "connelly_cover.jpg",
+    coverImage: "connelly_cover_a_72dpi_285px.jpg",
     media: [
-      "connelly_bath.jpg",
+      "connelly_model_72dpi_1400px.jpg",
       "american_lake_site_plan_72dpi_1400px.jpg",
       "american_lake_plan_72dpi_1400px.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
-      "Cover Image_In Progress_72dpi-285px.jpg",
+      "connelly_model_parts_72dpi_1400px.jpg",
+      "connelly_model_open_72dpi_1400px.jpg",
+      "connelly_model_back_72dpi_1400px.jpg",
+      "connelly_model_plan_72dpi_1400px.jpg",
+      "connelly_construction_a_72dpi_1400px.jpg",
+      "connelly_render_kitchen_72dpi_1400px.jpg",
+      "connelly_render_exterior_entry_72dpi_1400px.jpg",
     ],
    },
   {
