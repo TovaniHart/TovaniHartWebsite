@@ -488,7 +488,6 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "spring_aerial_b_72dpi_1400px.jpg",
       "spring_fire_training_72dpi_1400px.jpg",
       "spring_training_72dpi_1400px.jpg",
-
     ],
    },
   {
