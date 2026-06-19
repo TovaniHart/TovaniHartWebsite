@@ -85,7 +85,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
    },
   {
-    name: "Tumwater High School PE Improvments",
+    name: "Tumwater High School | PE Improvments",
     location: "Tumwater, Washington",
     description:
       "The THS PE Improvements Project includes an addition of approximately 3,000sf providing a new Weight training space, remodeling 150sf of existing adjacent space to include storage, mechanical and a restroom, along with refinishing floors in both the new and old gyms. Work includes extending normal electrical, communications and data capabilities, along with hydronic heating piping, domestic and fire suppression water systems. The addition will be a simple light filled space with structural systems taking on the character and of the gymnasiums including a wood deck ceiling and exposed glu-lam beams and purlins. The design incorporates a large sheltering roof providing outdoor training area connected to the weight room by large overhead sectional doors.",
@@ -120,7 +120,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
    },
   {
-    name: "Auxiliary Gymnasium",
+    name: "River Ridge HS | Auxiliary Gymnasium",
     location: "Lacey, Washington",
     description:
       "The Auxiliary Gymnasium adds approximately 13,000 square feet of new building for basketball, volleyball, pickle ball and a separate practice space for wrestling. This building fills a need at River Ridge High School with an ever-growing student population. Siting the building on an existing school campus with developed play-fields and utilities limited feasible options, but ultimately between the JV Baseball field and pedestrian access to 3rd Way was proven to be the best solution. The interior spaces maintain clear ceiling heights to allow for volleyball, full court basketball along with four half courts, future provisions for batting cage practice area, moveable bleacher seating for spectators, and two wrestling mats in the Mat Room. The exterior has large awnings at the north and the south entries for patron protection from the weather.",
@@ -255,7 +255,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
    },
   {
-    name: "Baytown | Phase III",
+    name: "Baytown Fire Training Center | Phase III",
     location: "Baytown, TX",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -301,7 +301,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
    },
   {
-    name: "City of Dupont Public Works",
+    name: "City of Dupont | Public Works",
     location: "Dupont, WA",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -392,7 +392,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
     ],
    },
   {
-    name: "San Marcos Sation 3",
+    name: "San Marcos Fire Station 3",
     location: "San Marcos, TX",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
