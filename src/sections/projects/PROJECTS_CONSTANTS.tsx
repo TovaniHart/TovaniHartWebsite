@@ -471,10 +471,6 @@ export const PROJECTS_INFO: ProjectProps[] = [
     coverImage: "spring_cover_72dpi_285px.jpg",
     media: [
       "spring_aerial_72dpi_1400px.jpg",
-      "spring_ftc_plan_72dpi_1400px.jpg",
-      "spring_diagram_72dpi_1400px.jpg",
-      "spring_model_72dpi_1400px.jpg",
-      "spring_rendering_exterior_72dpi_1400px.jpg",
     ],
    },
   {
