@@ -166,9 +166,9 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "adna_classadd.jpg",
       "adna_classroom.jpg",
       "adna_walkway.jpg",
+      "adna_walkway-72dpi-1400px.jpg",
       "adna_classroom-72dpi-1400px.jpg",
       "adna_classroom02-72dpi-1400px.jpg",
-      "adna_walkway-72dpi-1400px.jpg",
     ],
    },
   {
