@@ -503,6 +503,7 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "strode_render_hillside_72dpi_1400px.jpg",
       "strode_residence_plan_72dpi_1400px.jpg",
       "strode_elevation_72dpi_1400px.jpg",
+      "strode_model_72dpi_1400px.jpg",
       "strode_view_72dpi_1400px.jpg",
       "strode_view_window_72dpi_1400px.jpg",
       "strode_construction_basement_72dpi_1400px.jpg",
