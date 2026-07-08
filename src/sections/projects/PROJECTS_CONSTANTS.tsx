@@ -244,7 +244,6 @@ export const PROJECTS_INFO: ProjectProps[] = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     coverImage: "avanti_cover_72dpi_285px.jpg",
     media: [
-      "avanti_site_72dpi_1400px.jpg",
       "avanti_hs_knox_gym_plan_72dpi_1400px.jpg",
       "avanti_doors_72dpi_1400px.jpg",
       "avanti_hallway_72dpi_1400px.jpg",
