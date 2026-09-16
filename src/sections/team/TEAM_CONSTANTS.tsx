@@ -46,16 +46,16 @@ export const EMPLOYEE_CONSTANTS: EmployeeProps[] = [
   {
     name: "Jane Locke",
     image: "Jane Locke 2018 cropped.jpg",
-    title: "Project Coordinator",
+    title: "Project Manager",
     biography:
       "Jane has over 20 years of experience ranging from hands on civic service with Habitat for Humanity to coordinating consultants and contractor efforts through complex construction projects. She brings enthusiasm to each project placing highest priority on fulfilling our client's needs. She operates efficiently in all phases of work. Her immersion into projects that range from programming to construction administration has contributed to her well -rounded approach to problem solving. Jane is instrumental in the organization, assembly and distribution of design documents from initial educational planning meetings, jurisdictional applications through construction close out. Jane is a welcoming presence to people and is a dedicated member of Tovani Hart and is a critical team member.",
   },
   {
-    name: "Kate Fiegen",
-    image: "Kate Fiegen 2021 cropped.jpg",
-    title: "Architect",
+    name: "Savannah Blair",
+    image: "Savannah 2026.jpg",
+    title: "Project Manager",
     biography:
-      "Kate has been fond of architecture nearly her entire life; even before she knew what architecture was.  She was given her first LEGO set as a young child, and her love of building and how things go together was quickly formed.  As an adult, Kate studied Architecture at the University of Arizona.  She spent several years developing a diverse set of skills before beginning her architectural internship in Phoenix, Arizona.\n Kate spent 10 plus years expanding her professional skills in areas ranging from Feasibility Studies to Construction Administration. While developing these skills, Kate pursued her professional licensing, and became a Registered Architect in 2019.  After enduring years of Phoenix summers, Kate, and her husband relocated to the beautiful Pacific Northwest.  Kate is excited to share her wit and enthusiasm with Tovani Hart and the community.\n In her spare time, Kate continues her love of everything LEGO, experiencing the PNW, and making / repairing things in her workshop.",
+      "Savannah has over 20 years of architectural experience, working on a wide variety of projects from feasibility studies, space planning and remodels to construction administration. A Phius Certified Builder (CPHB) since 2024, she is specially trained in passive house building standards. Savannah has managed project teams on large, multi-phased development projects from initial contracts to project close-out. Her well-rounded, detail-oriented approach to solving complex issues, allows for the success of projects. \n Placing a high priority on fulfilling the needs of our clients and delivering quality projects, she operates efficiently in all phases of work. Savannah values projects where she is able to build relationships with our clients and work toward achieving their goals. In order to successfully coordinate a project, she is in regular contact with consultants and authorities having jurisdiction throughout the duration of a project. During production, her organizational skills and awareness to detail, results in successfully meeting project goals, minimizing delays, and maintaining project schedules.",
   },
   {
     name: "Maria Herrera, AIA",
@@ -65,26 +65,19 @@ export const EMPLOYEE_CONSTANTS: EmployeeProps[] = [
       "Maria is an active AIA member who attained her bachelor’s degree from Washington State University. She strives to build up her community through thoughtful design, integrity, and authenticity. She has a passion for helping people and enjoys spending her free time outdoors exploring new trails and photographing new scenes.",
   },
   {
+    name: "Eric Brunt",
+    image: "Eric 2026.jpg",
+    title: "Designer",
+    biography:
+      "Eric has over 15 years experience as a multi-disciplinary designer and artisan. He attended the University of Washington and earned degrees in both Architectural and Industrial Design, two unique yet complimentary practices at the foundation of his creative skill set. This background affords Eric the ability to balance large scale / big picture planning with small scale / detailed craft. His design experience includes mixed-used, residential, and institutional buildings, as well as custom furniture. Proficiency with both digital and physical tools allows him to deliver on a wide array of client goals. Eric became a LEED AP to facilitate the important work of integrating sustainability into the built environment. His focus on user experience is a core driver behind his ability to produce functionally and aesthetically pleasing environments. After many years in Seattle, Eric returned to his hometown of Olympia to live closer to family and nature. In his spare time, he enjoys volunteering for a non-profit focused on old-growth forest conservation, creating in his workshop, photography, and playing music.",
+  },
+  {
     name: "Chrissy Burd",
     image: "Chrissy Burd cropped.jpg",
     title: "Bookkeeper",
     biography:
       "Chrissy has over 20 years of experience as a Bookkeeper, Controller, and Director of Operations, as well as extensive experience with payroll.  At Tovani Hart she works to support the team, primarily through her meticulous management of accounts-receivable and accounts-payable, to help keep project fees and consultant fees aligned with the progression of the project milestones.  Chrissy hails from Upstate New York, where she studied architecture at Syracuse University, but she has been calling the great Pacific Northwest “home” since 1992.  In her free time, Chrissy is an artist, most recently experimenting with large-scale 5’x5’ paintings on canvas, and she is an avid gardener who is practicing to someday be a flower farmer.",
-  },
-  {
-    name: "Hasan Ikiz",
-    image: "Hasan 2025.jpg",
-    title: "Architect in Training",
-    biography:
-      "Hasan graduated from University of Idaho with both Masters and Bachelor degree in Architecture. He enjoys being in the practice of architecture after many years of learning the theory of it. In his professional path, he is looking to get his license in architecture. Hasan is coming from a diverse background and he uses that diversity in his professional life. He enjoys hands on experience. In his university years, he has learned carpentry and it became one of his passions. Being part of a Design & Build team taught him the important aspects of the build environment and how his designs impacts people’s lives. \n Hasan enjoys being outdoors. He is interested in carpentry, photography, acrylic and oil painting, gaming, and gardening. He appreciates being part of the community where he gets to enjoy everyday life and problem solving. One of the latest interests of Hasan is how to fix his car with creative solutions.",
-  },
-  {
-    name: "Ingrid Noyes",
-    image: "Ingrid 2025.jpg",
-    title: "Interior Designer",
-    biography:
-      "Ingrid Noyes graduated with a Bachelor’s in Interior Design and Minor in Construction Management from the accredited design program offered by Washington State University. She first got hands-on experience through working with Habitat for Humanity and assisted the organization with rebuilding homes in New Orleans. After graduating high school, she went on to work with AmeriCorps NCCC, a government program designed to introduce young adults to different areas of work such as, energy conservation, infrastructure improvement, natural and other disaster services, and urban and rural development. \n Ingrid enjoys designing spaces in the areas of hospitality, retail, residential, and especially community based spaces. She also has an interest in historical preservation and how architecture and interior design reflects the identity of a society and culture. In her spare time, she enjoys going on hikes in the PNW, hanging out with friends and her cat, and talking with her grandma.",
-  },
+   },
 ];
 
 export default TEAM_CONSTANTS;
